@@ -2,7 +2,7 @@
 
 Submitted by: **Noah Russell** ZNumber: **Z23667779**
 
-**BeReal Clone PT 1** is the first part of a two-part project which clones some of the main functionalities of the trending app called BeReal. In this app, users post a photo of what they’re currently doing upon receiving a random notification during the day. Only after posting a photo can the user see their friends’ photos.
+**BeReal Clone PT 1** is the first part of a two-part project which clones some of the main functionalities of the trending app called BeReal. In this app, users post a photo of what they’re currently doing upon receiving a random notification during the day. Only after posting a photo can the user see their friends’ photos. The app features a user-friendly interface, allowing for easy registration and login processes, as well as a seamless feed that displays posts from friends. With the ability to upload images from their photo library and add optional captions, users can personalize their contributions and express themselves creatively.
 
 Time spent: **3** hours spent in total
 
@@ -38,7 +38,7 @@ GIF created with VEED.io
 
 ## Notes
 
-Had a few errors I came across when dealing with the back4app database version. Other than that, no significant issues.
+Project was very simple and easy to create. Following the professors lectures + the codepath lab, resulted in this not being too time consuming. The back4app was having a few issues but a TA helped me fix any issues I had. I'm very exciting for part 2 of this project.
 
 ## License
 
