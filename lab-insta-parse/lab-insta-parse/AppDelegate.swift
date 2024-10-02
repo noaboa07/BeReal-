@@ -1,6 +1,5 @@
 //
-//  AppDelegate.swift
-//  lab-insta-parse
+// 
 //
 //  Created by Noah Russell on 9/9/24.
 //
