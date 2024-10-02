@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 My video Walkthrough:
 
-<img style="max-width:300px;" src="lab-insta-parse/Project2.gif">
+<img style="max-width:300px;" src="lab-insta-parse/Project2Remake.gif">
 
 GIF created with VEED.io
 
